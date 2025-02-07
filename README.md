@@ -9,4 +9,4 @@ Docker Container is deployed using docker Commands.
 
 ECR repository is created using Python Boto3 and pushed Docker Image to ECR.
 
-Created EKS cluster and Nodegroups finally did Kubernetes Deployments and Services using Python!
+Created EKS cluster and Nodegroups and with Kubernetes Deployments and Services deployed application on Kubernetes!
